@@ -55,3 +55,5 @@ showFormattedNames(users);
 console.log('Now what is the original list of users like again?', users);
 
 ```
+
+[Fiddle](https://jsfiddle.net/oq7yxvbd/2/)

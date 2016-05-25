@@ -15,7 +15,7 @@ const users = [
 
 const orderedUsers = _.orderBy(users, 'firstName');
 
-console.log('Ordered Users' orderedUsers);
+console.log('Ordered Users', orderedUsers);
 ```
 
-[Fiddle](https://jsfiddle.net/w07yzz9z/1/)
+[Fiddle](https://jsfiddle.net/4ek1rLw2/1/)

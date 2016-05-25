@@ -21,7 +21,7 @@ console.log('Users who like carrots: ', userWhoLikesCarrots);
 
 ```
 
-[Fiddle](https://jsfiddle.net/at53m2z9/)
+[Fiddle](https://jsfiddle.net/eqjpsdba/1/)
 
 
 ## Problem 2 - You need to filter but you need to filter on something more than a string match
@@ -43,5 +43,5 @@ const userWithIncomeOver50 = _.find(users, user => {
 console.log('Users with income over 50: ', userWithIncomeOver50);
 ```
 
-[Fiddle](https://jsfiddle.net/8k67csb2/)
+[Fiddle](https://jsfiddle.net/mz9qfsyp/)
 

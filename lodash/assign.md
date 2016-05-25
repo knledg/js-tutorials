@@ -66,7 +66,7 @@ In the example below, a user search will have an offset of `0` and a limit of `2
 ```javascript
 
 function createFilters(userFilters = {}) {
-  const filters = _.assign({}, { offset: 0, limit: 25}, userFilters);
+  const filters = _.assign({}, {offset: 0, limit: 25}, userFilters);
 
   console.log('The filters are: ', filters);
 }
@@ -75,7 +75,7 @@ function createFilters(userFilters = {}) {
 createFilters();
 
 // Now change the limit to 50
-createFilters({ limit: 50 });
+createFilters({limit: 50});
 
 ```
 

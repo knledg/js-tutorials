@@ -23,5 +23,5 @@ console.log('Users Grouped By Role', usersGroupedByRole);
 
 ```
 
-[Fiddle](https://jsfiddle.net/n6c4cf9a/)
+[Fiddle](https://jsfiddle.net/daquk1eL/)
 

@@ -46,7 +46,7 @@ console.log('Can the user make sales calls?', user && user.roles && user.roles.s
 
 ```
 
-[Fiddle](https://jsfiddle.net/otzg8Lrv/)
+[Fiddle](https://jsfiddle.net/7usbcoxc/)
 
 But we can shorten that logic with `_.get`
 

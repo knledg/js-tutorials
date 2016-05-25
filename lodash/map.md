@@ -77,5 +77,5 @@ console.log('The winners are: ', firstNames);
 
 ```
 
-[Fiddle](https://jsfiddle.net/h8smyn45/)
+[Fiddle](https://jsfiddle.net/e2s2kc1g/1/)
 
